@@ -1,4 +1,4 @@
-# Microsfot Earth Day Challenge
+# Microsoft Earth Day Challenge
 We’re excited that you’ve decided to share your idea(s) on how to use AI to save and protect the Earth. Here are the steps for submitting your idea and getting featured on our blog:
 
 1)	Complete the Earth Day Cloud Skills Challenge between 4/5-4/30/2021. The first 50 customers will have a tree planted in their honor and will receive a certificate.
