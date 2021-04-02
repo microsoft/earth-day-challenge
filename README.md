@@ -1,11 +1,11 @@
 # Microsoft Earth Day Challenge
 We’re excited that you’ve decided to share your idea(s) on how to use AI to save and protect the Earth. Here are the steps for submitting your idea and getting featured on our blog:
 
-1)	Complete the Earth Day Cloud Skills Challenge between 4/5-4/30/2021. The first 50 customers will have a tree planted in their honor and will receive a certificate.
+1)	Complete the [Earth Day Cloud Skills Challenge](https://www.microsoft.com/en-us/learncloudchallenge/e71a0acd-8463-4651-a001-0bb0e9dc62e5) between 4/5-4/30/2021. The first 50 customers will have a tree planted in their honor and will receive a certificate.
 2)	Use the skills that you learned during the Cloud Skills Challenge to come up with an idea. Please include the following to be featured on the blog*:
-a.	Submit idea and working code to Github repository
-b.	Include MS Learn ID in notes section of submission
-3)	Customers with an eligible entry will receive a digital Acclaim Sustainability badge by email, and be featured on our Technology blog on May 24.
+            a.	Submit idea and working code to [Github repository](https://github.com/microsoft/earth-day-challenge)
+            b.	Include [MS Learn ID](https://docs.microsoft.com/en-us/learn/) in notes section of submission
+3)	Customers with an eligible entry will receive a digital Acclaim Sustainability badge by email, and be featured on our [Technology blog](https://cloudblogs.microsoft.com/industry-blog/microsoft-in-business/technology/) on May 24.
 
 *This offer is open only to US developers employed in the field of software research or software sales and development. You must legally reside in the 50 United States (including the District of Columbia), and be 18 years of age or older to participate. You must have registered for and completed the Earth Day Cloud Skills Challenge learning path using same email address as below for validation. Submissions must include idea, code and MS Learn ID to be eligible. All code submitted must be functional.  Only one idea with accompanying working code will be promoted in the blog per person. Submitted code must utilize skills from Earth Day Cloud Skills Challenge learning path and be added into this Github repository (www.github.com/microsoft/earth-day-challenge) to be featured in the blog post.  Entries must be submitted between 4/5/21-4/30/21 at 11:59 pm PST.  By submitting your entry to Github, you acknowledge and agree that you are bound by the GitHub Terms and Conditions (https://docs.github.com/en/github/site-policy/github-terms-of-service#d-user-generated-content) and that you will not receive any payment or other monetary compensation from Microsoft for your entry.  In addition, you grant to Microsoft the right to use your name and professional title for the purpose of featuring your entry in the blog post. Microsoft reserves the right to reject any entries that do not meet the foregoing criteria or are considered inappropriate for any reason.
 
