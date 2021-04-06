@@ -1,7 +1,7 @@
 # Microsoft Earth Day Challenge
 We’re excited that you’ve decided to share your idea(s) on how to use AI to save and protect the Earth. Here are the steps for submitting your idea and getting featured on our blog:
 
-1)	Complete the [Earth Day Cloud Skills Challenge](https://www.microsoft.com/en-us/learncloudchallenge/e71a0acd-8463-4651-a001-0bb0e9dc62e5) between 4/5-4/30/2021. The first 50 customers will have a tree planted in their honor and will receive a certificate.
+1)	Complete the [Earth Day Cloud Skills Challenge](https://www.microsoft.com/en-us/learncloudchallenge/e71a0acd-8463-4651-a001-0bb0e9dc62e5) between 4/5/2021 - 4/30/2021. We will plant a tree for each customer to complete the challenge, up to 50 trees total.
 2)	Use the skills that you learned during the Cloud Skills Challenge to come up with an idea. Please include the following to be featured on the blog*:
             a.	Submit idea and working code to [Github repository](https://github.com/microsoft/earth-day-challenge)
             b.	Include [MS Learn ID](https://docs.microsoft.com/en-us/learn/) in notes section of submission
