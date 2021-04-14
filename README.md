@@ -11,15 +11,36 @@ We’re excited that you’ve decided to share your idea(s) on how to use AI to 
 
 # How to Create Project?
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Once you decide what you gonna call you project, follow the steps to create your project folder and start coding:
 
-As the maintainer of this project, please make a few updates:
+First we create a fork of the main repo and then clone it to disk and create a branch to work in. The instructions below assume you have the git command line on your machine. If you're more comfortable in a GUI git client, you can use that too (we recommend SourceTree).
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+1. Create a fork of the main repo
+   - Navigate to the WTH git repo at: <https://github.com/microsoft/earth-day-challenge/>
+   - Click the Fork button at the top right of the page and then choose the account you want to create the fork in. 
+2. Clone your new fork to your local machine
+   - `git clone https://github.com/myname/reponame.git`
+   - `cd earth-day-challenge`
+3. Create a new branch for your work. It is a best practice to never work directly on the master branch
+   - `git branch MyWork`
+   - `git checkout MyWork`
+4. Add a new top level folder to the WTH repo using the next available number in sequence
+   - `mkdir <your MS Learn ID>-<Your Project Name>`
+5. Within your new folder, create the  directory structure like this:
+	- `../deployment`
+		- `/Solutions`
+	- `../presentation`
+	- `../test`
+		
+		`
+ ### Files and Folders
+Now that you've created the directory structure above, create folling files/instuctions:
+- `../`
+	- Project Description (README.md)
+	- Deployment Instructions
+	- Architecture diagrams 
+	-etc.
+
 
 ## Contributing
 
