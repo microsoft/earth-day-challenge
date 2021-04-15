@@ -16,10 +16,10 @@ Once you decide what you gonna call you project, follow the steps to create your
 First we create a fork of the main repo and then clone it to disk and create a branch to work in. The instructions below assume you have the git command line on your machine. If you're more comfortable in a GUI git client, you can use that too (we recommend SourceTree).
 
 1. Create a fork of the main repo
-   - Navigate to the WTH git repo at: <https://github.com/microsoft/earth-day-challenge/>
+   - Navigate to the git repo at: <https://github.com/microsoft/earth-day-challenge/>
    - Click the Fork button at the top right of the page and then choose the account you want to create the fork in. 
 2. Clone your new fork to your local machine
-   - `git clone https://github.com/myname/reponame.git`
+   - `git clone https://github.com/microsoft/earth-day-challenge/`
    - `cd earth-day-challenge`
 3. Create a new branch for your work. It is a best practice to never work directly on the master branch
    - `git branch MyWork`
